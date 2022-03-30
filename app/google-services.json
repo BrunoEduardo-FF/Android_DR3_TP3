@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895196365123",
+    "project_id": "dr3-tp3-c1f0a",
+    "storage_bucket": "dr3-tp3-c1f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895196365123:android:c012e922c08b3c7fcbaff6",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.dr3_tp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895196365123-fcv0sjt1l952im70up25tqpjr1guoj7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCUWOtdLO0FhgB5hMElvCwJXsG2Tbjxq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895196365123-fcv0sjt1l952im70up25tqpjr1guoj7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
